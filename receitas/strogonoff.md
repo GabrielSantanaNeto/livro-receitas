@@ -1,6 +1,6 @@
 # Strogonoff de frango
 
-### Ingredientes
+## Ingredientes 🥗🍉🥕
 
 - peito de frango
 - extrato de tomate
@@ -10,8 +10,9 @@
 - alguma
 - coisa
 
-### Preparo
+## Preparo🫕🔪
 - picar a carne
 - levar ao forno
 - servir
+- lavar a louça 
 
